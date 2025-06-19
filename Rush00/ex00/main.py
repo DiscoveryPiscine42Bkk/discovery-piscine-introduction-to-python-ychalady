@@ -1,7 +1,7 @@
 from checkmate import is_in_check
 
 board = [
-    "....R...",
+    "...R....",
     "........",
     "........",
     "....K...",
